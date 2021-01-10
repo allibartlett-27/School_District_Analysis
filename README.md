@@ -8,8 +8,11 @@ The purpose of this anaylsis was to help Maria and her supervisor remove testing
 
 The district summary does not seem to be overly affected by the elimination of the 9th grade class at Thomas High School. In total there were 461 students removed. The averages for the district stayed almost exactly the same. 
 In the images here, you can see that the numbers have slight changed for each percentage but when we format and round our data, the numbers appear to be the same. 
+
 [District Summary with Thomas High Scool 9th Grade](https://github.com/allibartlett-27/School_District_Analysis/blob/main/Resources/District%20Summary.PNG)
+
 [District Summary without Thomas High School 9th Grade](https://github.com/allibartlett-27/School_District_Analysis/blob/main/Resources/Disctrict%20Summary%20New.PNG)
+
 This means removing the 9th grade class from Thomas didn't have that much impact on the overall district results. 
 
 **- How is the school summary affected?**
