@@ -30,7 +30,7 @@ By replacing the 9th graders score, I am showing this has little affect on how T
   
   I did not see any major differences in these fields. 
   
-**- Summary**
+## Summary
 
 Based on what I am showing between the scores that include the 9th grader's from Thomas High School and the scores that do not, it appears to me that the data was a small enough number that it did not make the much of an impact on the impact. We can also conluce that the scores that were reported for the 9th grade class at Thomas High School may not have been passing, therefore when we run the pssing scores by school and district, the numbers are not affected tremendously. We can see that both 9th grade reading scores and 9th grade math scores are in fact nan, but the percentages of passing grades on a larger scale was not affected. I would say that the 9th grade scores follow the same pattern of as the entire Thomas High School student body because Thomas High School was still one of the top performing skills. 
 
