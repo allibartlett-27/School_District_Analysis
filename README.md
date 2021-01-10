@@ -22,11 +22,11 @@ By replacing the 9th graders score, I am showing this has little affect on how T
 
 **- How does replacing the ninth-frade scores affect the following:**
   
-  *- Math and reading scores by grade*
+    *- Math and reading scores by grade*
   
   When we look at the Math and Reading scores for each school by grade we can see that the scores for Thomas High School 9th grade are both nan. Since we replaces all of the scores with nan, we no longer have data to report in this field. 
   
-  *- Scores by school spending, school size and school type*
+    *- Scores by school spending, school size and school type*
   
   I did not see any major differences in these fields. 
   
